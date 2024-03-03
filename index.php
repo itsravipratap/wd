@@ -1,4 +1,4 @@
 <?php 
-echo "Hello My Drop1";
+echo "Hello My WD";
 
 ?>
